@@ -16,4 +16,4 @@ yarn dev
 
 # Auteur
 * Exercice issu du livreReact Développez le Front End de vos applications web et mobiles avec JavaScript : https://github.com/scastiel
-* Rudy TUANI : adaptation du Framework vitejs avec les dernières version de librairies.
+* Rudy TUANI : adaptation du Framework vitejs avec les dernières versions de librairies.
